@@ -5,7 +5,6 @@
 -- Host: localhost:3306
 -- Generation Time: Nov 30, 2020 at 04:11 PM
 -- Server version: 5.7.32
--- PHP Version: 7.3.6
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
